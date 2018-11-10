@@ -1,6 +1,3 @@
 测试文件
-<<<<<<< HEAD
 create a branch is quick & simple.
-=======
-create a branch is quick & simple.
->>>>>>> feature1
+测试dev分支禁用fast-forward模式
