@@ -2,3 +2,4 @@
 create a branch is quick & simple.
 测试dev分支禁用fast-forward模式
 测试stash分支模式
+测试github远程提交方式
